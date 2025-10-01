@@ -8,10 +8,7 @@ import Exercise2.astranautScheduler.observer.UserNotifier;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Main application class for the Astronaut Daily Schedule Organizer.
- * This class provides a console-based user interface for interacting with the system.
- */
+// Main application class for the Astronaut Daily Schedule Organizer.
 public class Main {
     public static void main(String[] args) {
         // Get the singleton instance of the ScheduleManager
